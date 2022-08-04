@@ -1,5 +1,11 @@
 # FadeShimmer in Flutter
 ## Preview
-![Screenshot 2022-08-04 at 2 37 34 PM](https://user-images.githubusercontent.com/62112170/182817320-4b7f9ded-00ac-4fe3-aedb-fb0911adab1b.png)
+
+![Screenshot 2022-08-04 at 12 33 08 PM](https://user-images.githubusercontent.com/62112170/182817968-fb2c7319-b5e2-4923-9854-39877dd11a19.png)
+
+https://user-images.githubusercontent.com/62112170/182818007-c710e27f-d9b8-4199-8f17-e3aeecf4b54c.mov
+
+
+
 
 
