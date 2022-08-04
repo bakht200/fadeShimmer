@@ -1,8 +1,3 @@
-//CodeWithFlexz on Instagram
-
-//AmirBayat0 on Github
-//Programming with Flexz on Youtube
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
